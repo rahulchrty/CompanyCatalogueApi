@@ -1,8 +1,10 @@
 # CompanyCatalogueApi
 
 *Framework:* .net core, ASP.NET core
+
 *Version:* 3.1
-*Batabase: * Sql Server
+
+*Database:* Sql Server
 
 ## Setup:
 
